@@ -5,7 +5,7 @@
 // @author       BK927
 // @match https://*/*
 // @match http://*/*
-// @icon         https://raw.githubusercontent.com/BK927/You-re-addicted-to-the-internet/main/icon.png
+// @icon         https://raw.githubusercontent.com/BK927/AddictionBlocker/main/icon.png
 // @grant        none
 // @license MIT
 // @description Give delay to each session. This will help you to stop using internet.
