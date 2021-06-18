@@ -5,7 +5,7 @@
 // @author       BK927
 // @match https://*/*
 // @match http://*/*
-// @icon         https://www.google.com/s2/favicons?domain=tampermonkey.net
+// @icon         https://raw.githubusercontent.com/BK927/You-re-addicted-to-the-internet/main/icon.png
 // @grant        none
 // @license MIT
 // @description Give delay to each session. This will help you to stop using internet.
